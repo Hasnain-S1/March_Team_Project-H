@@ -134,8 +134,7 @@ This project explores pollution levels across The United States from 2000-2016, 
 - **Platform:** Streamlit
 - **Hosting:** Heroku 
 
-* The App live link is: ________ 
-* **Steps:** ADD STEPS 
+* The App live link is: https://pollution-weather-analysis-d98208a4910a.herokuapp.com/
 
 ## Future Improvements 
 - Integration of real-time pollution monitoring data
